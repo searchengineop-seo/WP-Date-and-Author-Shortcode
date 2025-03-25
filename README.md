@@ -4,6 +4,7 @@ A simple date and custom author name shortcode for Wordpress
 === Author & Date shortcode ===
 Tags: author, date, shortcode
 Contributors: SearchEngineOp Web Design & SEO
+Author URL: https://searchengineop.com
 Requires at least: 4.6
 Tested up to: 6.8
 Stable tag: 1.2
